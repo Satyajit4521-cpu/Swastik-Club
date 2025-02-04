@@ -1,1 +1,4 @@
-console.log("Swastik Club website is working!");
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Website Loaded Successfully!");
+});
+
